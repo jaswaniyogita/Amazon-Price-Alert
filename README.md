@@ -19,8 +19,7 @@ What if, there is an automatic price checker that will give you an email alert i
 
 -Select frequency to check prices
 
--Keep the script running in the background The scraper will do the rest for you and notify you when the price is in your budget. However, it is to be kept in mind that the sender   email ID and password has been stored in os variables in the script. Therefore, wherever you see the imports of 'DEVELOPER_EMAIL' and 'DEVELOPER_PASS', be sure to replace them   
-  with the email ID you wish to recieve the notification from.
+-Keep the script running in the background The scraper will do the rest for you and notify you when the price is in your budget. However, it is to be kept in mind that the sender   email ID and password has been stored in os variables in the script. Therefore, wherever you see the imports of 'DEVELOPER_EMAIL' and 'DEVELOPER_PASS', be sure to replace them with the email ID you wish to recieve the notification from.
 
 
 # **Modules used (available in requirements.txt)**
